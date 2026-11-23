@@ -1,6 +1,9 @@
-<div align="center">   
-  <a href="[https://human-authority.com/](https://human-authority.com/)">     
-    <img src="./assets/humanist-banner.png" alt="Human authority for controlled AI execution. Human Agency Continuity Protocol." width="100%" />   </a> 
+<div align="center">
+  <a href="https://human-authority.com/">
+    <img src="./assets/humanist-banner.png"
+         alt="Human authority for controlled AI execution. Human Agency Continuity Protocol."
+         width="100%" />
+  </a>
 </div>
 
 **Capability does not confer authority.**
